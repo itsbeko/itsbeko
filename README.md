@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/itsbeko">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FF3B5C&center=true&vCenter=true&width=520&lines=Yo%2C+moi+c'est+Beko+%F0%9F%A6%8E;Dev+JavaScript+%26+bots+Discord;Je+code+des+trucs+qui+marchent+(souvent)+%E2%9C%A8" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FF3B5C&center=true&vCenter=true&width=520&lines=Yo%2C+moi+c'est+Beko+%F0%9F%A6%8E;Astro+%C2%B7+Next.js+%C2%B7+Rust+%C2%B7+Discord;Voix+temps+r%C3%A9el+avec+LiveKit+%26+mediasoup+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,10 +22,11 @@
 
 ### 🦎 À propos
 
-- 💻 Dev **JavaScript / Node.js**, surtout des **bots Discord** avec discord.js
-- 🧪 Je bricole des apps, des launchers et des petits outils
-- 🎮 Fan de projets RP et de communautés Discord
-- ⚡ Toujours en train de lancer un nouveau projet (et d'en finir un autre... un jour)
+- 💻 Dev **full-stack JavaScript** : sites en **Astro** et **Next.js**, **bots Discord** avec discord.js
+- 🦀 Je fais aussi du **Rust** quand il faut de la perf
+- 🗄️ Je gère des **bases de données** et du cache **Redis**
+- 🎙️ J'ai étudié le **traitement de la voix en temps réel** et je sais déployer **LiveKit** et **mediasoup** (WebRTC)
+- 🏗️ J'ai étudié l'**architecture d'un réseau social** : scalabilité, temps réel, découpage en services
 
 </td>
 <td width="38%" align="center">
@@ -36,14 +37,31 @@
 
 ### 🛠️ Stack
 
+**Langages**
 <p>
   <img src="https://img.shields.io/badge/JavaScript-1a1033?style=for-the-badge&logo=javascript&logoColor=ffd84a" />
+  <img src="https://img.shields.io/badge/Rust-1a1033?style=for-the-badge&logo=rust&logoColor=ff6b3d" />
   <img src="https://img.shields.io/badge/Node.js-1a1033?style=for-the-badge&logo=nodedotjs&logoColor=5fa04e" />
+</p>
+
+**Web**
+<p>
+  <img src="https://img.shields.io/badge/Astro-1a1033?style=for-the-badge&logo=astro&logoColor=ff5d01" />
+  <img src="https://img.shields.io/badge/Next.js-1a1033?style=for-the-badge&logo=nextdotjs&logoColor=fdf3c7" />
   <img src="https://img.shields.io/badge/discord.js-1a1033?style=for-the-badge&logo=discord&logoColor=5865f2" />
-  <img src="https://img.shields.io/badge/HTML5-1a1033?style=for-the-badge&logo=html5&logoColor=ff3b5c" />
-  <img src="https://img.shields.io/badge/CSS3-1a1033?style=for-the-badge&logo=css&logoColor=8a5cf6" />
-  <img src="https://img.shields.io/badge/Git-1a1033?style=for-the-badge&logo=git&logoColor=ff6b3d" />
-  <img src="https://img.shields.io/badge/VS%20Code-1a1033?style=for-the-badge&logo=visualstudiocode&logoColor=3aa0ff" />
+</p>
+
+**Data**
+<p>
+  <img src="https://img.shields.io/badge/Redis-1a1033?style=for-the-badge&logo=redis&logoColor=ff4438" />
+  <img src="https://img.shields.io/badge/Bases%20de%20donn%C3%A9es-1a1033?style=for-the-badge&logo=databricks&logoColor=ffd84a" />
+</p>
+
+**Temps réel & voix**
+<p>
+  <img src="https://img.shields.io/badge/LiveKit-1a1033?style=for-the-badge&logo=livekit&logoColor=fdf3c7" />
+  <img src="https://img.shields.io/badge/mediasoup-1a1033?style=for-the-badge&logo=webrtc&logoColor=ff3b5c" />
+  <img src="https://img.shields.io/badge/WebRTC-1a1033?style=for-the-badge&logo=webrtc&logoColor=8a5cf6" />
 </p>
 
 ### 🚀 Projets
