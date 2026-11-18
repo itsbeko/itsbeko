@@ -26,12 +26,6 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
 
-      - name: Génère la carte des langages
-        run: node scripts/langs.mjs dist ${{ github.repository_owner }}
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          LANGS_TOKEN: ${{ secrets.LANGS_TOKEN }}
-
       - name: Publie sur la branche output
         run: |
           cd dist

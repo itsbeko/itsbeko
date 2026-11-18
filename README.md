@@ -74,7 +74,6 @@
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=itsbeko&show_icons=true&hide_border=false&bg_color=1a1033&title_color=ff3b5c&text_color=fdf3c7&icon_color=ffd84a&border_color=6b3fa0&rank_icon=github" />
-  <img height="165" alt="Most used languages" src="https://raw.githubusercontent.com/itsbeko/itsbeko/refs/heads/output/langs.svg" />
 </p>
 
 <p align="center">
