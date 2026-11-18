@@ -88,9 +88,9 @@
 ### 🦎 Le lézard a faim
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsbeko/itsbeko/output/lizard-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsbeko/itsbeko/output/lizard.svg" />
-  <img alt="Un lézard qui mange le graphe de contributions" src="https://raw.githubusercontent.com/itsbeko/itsbeko/output/lizard-dark.svg" width="100%" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsbeko/itsbeko/refs/heads/output/lizard-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsbeko/itsbeko/refs/heads/output/lizard.svg" />
+  <img alt="Un lézard qui mange le graphe de contributions" src="https://raw.githubusercontent.com/itsbeko/itsbeko/refs/heads/output/lizard-dark.svg" width="100%" />
 </picture>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b3fa0,50:ff3b5c,100:ffd84a&height=110&section=footer" width="100%" />
