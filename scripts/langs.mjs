@@ -1,4 +1,4 @@
-// Carte "Langages les plus utilisés" calculée sur TOUS tes dépôts (privés compris si LANGS_TOKEN est fourni).
+// Carte "Most used languages" calculée sur TOUS tes dépôts (privés compris si LANGS_TOKEN est fourni).
 // Usage : LANGS_TOKEN=... node scripts/langs.mjs <dossier-de-sortie> [login]
 import { mkdirSync, writeFileSync } from "node:fs";
 import { join } from "node:path";
@@ -49,7 +49,7 @@ async function main() {
   let langs = Object.entries(totals).sort((a, b) => b[1] - a[1]);
   if (langs.length > MAX) {
     const rest = langs.slice(MAX - 1).reduce((a, [, b]) => a + b, 0);
-    langs = [...langs.slice(0, MAX - 1), ["Autres", rest]];
+    langs = [...langs.slice(0, MAX - 1), ["Other", rest]];
   }
   langs = langs.map(([name, bytes]) => ({ name, pct: (bytes / sum) * 100, color: COLORS[name] || "#b9a6e0" }));
 
@@ -75,7 +75,7 @@ async function main() {
     .s{font:400 10px 'Segoe UI',Ubuntu,sans-serif;fill:#b9a6e0}
   </style>
   <rect x="0.5" y="0.5" width="${W - 1}" height="${H - 1}" rx="4.5" fill="#1a1033" stroke="#6b3fa0"/>
-  <text x="${X}" y="33" class="h">Langages les plus utilisés</text>
+  <text x="${X}" y="33" class="h">Most used languages</text>
   <clipPath id="c"><rect x="${X}" y="48" width="${BAR}" height="8" rx="4"/></clipPath>
   <g clip-path="url(#c)">${bar}</g>
   ${legend}

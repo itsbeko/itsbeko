@@ -120,7 +120,7 @@ function render(weeks, t) {
     <animateMotion path="${path}" rotate="auto" dur="${D.toFixed(2)}s" repeatCount="indefinite"
       keyPoints="0;1;1" keyTimes="0;${f(move / D)};1" calcMode="linear"/>
   </use>
-  <text x="${W / 2}" y="${H - 8}" text-anchor="middle" fill="${t.text}" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700">🦎 ${total} contributions dévorées cette année</text>
+  <text x="${W / 2}" y="${H - 8}" text-anchor="middle" fill="${t.text}" font-family="ui-monospace,SFMono-Regular,Consolas,monospace" font-size="11" font-weight="700">🦎 ${total} contributions eaten this year</text>
 </svg>`;
 }
 
