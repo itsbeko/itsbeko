@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/itsbeko">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=FF3B5C&center=true&vCenter=true&width=520&lines=Yo%2C+moi+c'est+Beko+%F0%9F%A6%8E;Astro+%C2%B7+Next.js+%C2%B7+Rust+%C2%B7+Discord;Voix+temps+r%C3%A9el+avec+LiveKit+%26+mediasoup+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=FF3B5C&center=true&vCenter=true&width=820&height=45&lines=Yo%2C+moi+c%27est+Beko+%F0%9F%A6%8E;Astro+%C2%B7+Next.js+%C2%B7+Rust+%C2%B7+Discord;Voix+temps+r%C3%A9el+avec+LiveKit+%26+mediasoup+%F0%9F%8E%99%EF%B8%8F" alt="Typing SVG" />
   </a>
 </p>
 
@@ -30,7 +30,7 @@
 
 </td>
 <td width="38%" align="center">
-  <img src="assets/avatar.webp" alt="Beko" width="200" />
+  <img src="assets/avatar.png" alt="Beko" width="200" />
 </td>
 </tr>
 </table>
