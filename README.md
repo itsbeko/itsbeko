@@ -85,6 +85,14 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=itsbeko&bg_color=1a1033&color=fdf3c7&line=ff3b5c&point=ffd84a&area=true&area_color=6b3fa0&hide_border=true" width="100%" />
 </p>
 
+### 🦎 Le lézard a faim
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/itsbeko/itsbeko/output/lizard-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/itsbeko/itsbeko/output/lizard.svg" />
+  <img alt="Un lézard qui mange le graphe de contributions" src="https://raw.githubusercontent.com/itsbeko/itsbeko/output/lizard-dark.svg" width="100%" />
+</picture>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b3fa0,50:ff3b5c,100:ffd84a&height=110&section=footer" width="100%" />
 
 <p align="center"><sub>Fait avec 🦎 par Beko</sub></p>
