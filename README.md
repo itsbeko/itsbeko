@@ -67,8 +67,7 @@
 ### 🚀 Projets
 
 <p>
-  <a href="https://github.com/itsbeko/whoops-app"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsbeko&repo=whoops-app&bg_color=1a1033&title_color=ff3b5c&text_color=fdf3c7&icon_color=ffd84a&border_color=6b3fa0" /></a>
-  <a href="https://github.com/itsbeko/theland"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsbeko&repo=theland&bg_color=1a1033&title_color=ff3b5c&text_color=fdf3c7&icon_color=ffd84a&border_color=6b3fa0" /></a>
+  <a href="https://github.com/itsbeko/piperhub"><img src="https://github-readme-stats.vercel.app/api/pin/?username=itsbeko&repo=piperhub&bg_color=1a1033&title_color=ff3b5c&text_color=fdf3c7&icon_color=ffd84a&border_color=6b3fa0" /></a>
 </p>
 
 ### 📊 Stats
