@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: ["scripts/lizard.mjs", ".github/workflows/lizard.yml"]
+    paths: ["scripts/**", ".github/workflows/lizard.yml"]
 
 permissions:
   contents: write
@@ -25,6 +25,12 @@ jobs:
         run: node scripts/lizard.mjs dist ${{ github.repository_owner }}
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Génère la carte des langages
+        run: node scripts/langs.mjs dist ${{ github.repository_owner }}
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          LANGS_TOKEN: ${{ secrets.LANGS_TOKEN }}
 
       - name: Publie sur la branche output
         run: |
