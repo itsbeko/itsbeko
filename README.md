@@ -86,3 +86,5 @@
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:6b3fa0,50:ff3b5c,100:ffd84a&height=110&section=footer" width="100%" />
+
+<p align="center"><sub>Fait avec 🦎 par Beko</sub></p>
